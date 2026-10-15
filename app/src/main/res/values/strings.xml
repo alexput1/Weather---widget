@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="acc_desc">Отображение погодных данных на экране</string>
+</resources>
